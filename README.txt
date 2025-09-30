@@ -1,6 +1,6 @@
 Project: Juice Shop XSS Evidence
 Folder: ~/Desktop/juice_shop_xss_evidence_20250928
-Created: $(date +"%Y-%m-%d %H:%M:%S")
+Created: 20250928
 
 Files:
 01_Screenshot_2025-09-26_01_05_54.png  — Initial Juice Shop page before payload execution
@@ -13,5 +13,4 @@ Files:
 Backups:
 - Original unmodified files saved in juice_shop_xss_evidence_20250928_backup
 
-Redactions performed:
-- Sensitive info (tokens, IPs) redacted in relevant screenshots
+
